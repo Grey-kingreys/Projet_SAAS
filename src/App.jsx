@@ -1,6 +1,7 @@
 import { Header } from "./components/Header";
 import { Hero } from "./components/Hero";
 import { Branding } from "./components/Branding";
+import { Features } from "./components/Features";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Hero />
       <Branding />
+      <Features />
     </>
   );
 }
