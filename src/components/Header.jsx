@@ -9,7 +9,7 @@ export const Header = () => {
             <Container className={"relative bg-n-9"}>
                 <div className="relative z-10 flex items-center justify-between py-4 lg: py-6">
                     <img src= {logoApp} alt="App_Logo" width={104} height={32} />
-                    <Button theme="primary" href="#">Login</Button>
+                    <Button theme="primary" href="#">Connexion</Button>
                 </div>
             <ElipseBlueBlur />
             </Container>

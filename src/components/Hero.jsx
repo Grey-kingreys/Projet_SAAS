@@ -10,11 +10,11 @@ export const Hero = () => {
             <Container className="relative z-10 pt-10 lg:py-26 space-y-16">
                 <div className="text-center max-w-2xl mx-auto px-16 lg:px-0 space-y-7">
                     <h1 className="hero">
-                        Build{" "}
+                        Créez votre{" "}
                         <span className="bg-clip-text text-transparent bg-gradient-to-b from-p-3 to-p-2">
-                            Modern
+                            Solution
                         </span> {" "}
-                        SaaS for Startups
+                        SaaS Moderne
                     </h1>
                     <p className="body-1 text-n-5">
                         Transformez vos idées en réalité avec notre plateforme tout-en-un. 
@@ -24,7 +24,7 @@ export const Hero = () => {
                         theme="primary"
                         href="/#pricing"
                     >
-                        Pricing and Plans
+                        Voir les offres
                     </Button>
                 </div>
                 <img src= {uiInterface} alt="Ui Interface illustration" />
